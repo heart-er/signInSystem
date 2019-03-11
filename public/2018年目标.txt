@@ -1,0 +1,28 @@
+上半年
+
+首先学会git/coding.net(常用工具) √
+
+熟悉前后端分离			√
+
+重点：深入js（要熟悉ES6语法）和css（less或者sass）	√
+
+学习Vue框架和node.js		√
+
+HTML5以及Web App的前端工作	√
+
+Web容器				√
+
+熟悉常见前端工具 （如 gulp,webpack）		√
+
+数据库技术			√
+
+了解DNS技术
+
+下半年：
+react-native init AwesomeProject --version 0.55.4  √
+
+(先学Vue,学精通后可以学习React和Angular)
+
+服务端开发：学习java（熟悉运用spring框架）和node.js
+
+了解并熟悉HTTP，浏览器原理
